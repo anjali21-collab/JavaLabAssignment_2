@@ -20,7 +20,7 @@ This program implements a simple **Student Record System** in Java using:
 It demonstrates adding, updating, deleting, searching, and displaying student information.
 
 📎 **Project Image:**  
-https://github.com/VANSHIKADIXIT16/JavaLabAssignment_2/blob/main/image.png
+https://github.com/anjali21-collab/JavaLabAssignment_2/blob/main/image.png
 
 ---
 
